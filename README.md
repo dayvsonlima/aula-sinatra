@@ -1,5 +1,9 @@
 to start the project just clone the repository:
 
+```bash
+git clone git@github.com:dayvsonlima/aula-sinatra.git
+```
+
 run: 
 
 
